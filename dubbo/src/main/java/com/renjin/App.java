@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("醉了lelellele");
         System.out.println("醉了!!!!!!!!!!!!!!!!!");
+        System.out.println("push test");
     }
 }
